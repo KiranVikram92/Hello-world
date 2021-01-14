@@ -21,4 +21,4 @@ An in-depth paragraph about your project and overview of use.
 
 ### License
 
-This **project** is licensed under the [NAME HERE] License - see the LICENSE.md(https://github.com/KiranVikram92/hello-world/edit/main/README.md) file for details.	
+This **project** is licensed under the [NAME HERE] License - see the [LICENSE.md](https://github.com/KiranVikram92/hello-world/edit/main/README.md) file for details.	
