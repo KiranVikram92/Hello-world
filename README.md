@@ -15,7 +15,7 @@ An in-depth paragraph about your project and overview of use.
 
 ### Installing
 
-- How/where to download your program
+- How/where to download your programs
 - Any modifications needed to be made to files/folders
 
 ```code blocks for commands```
